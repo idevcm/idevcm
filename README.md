@@ -1,12 +1,28 @@
-# 💫 About Me:
-👋 Hi, I'm a HNC student from Spain currently studying to become a multi-platform application developer. My current areas of focus include Java, Kotlin, SQL, and basic tools like Git, Docker or Linux.<br><br>💻 I'm a hard-working and methodical individual with a strong drive to succeed and progress in my career.<br><br>🌐 In addition to Spanish, I'm fluent in English and Catalan, although I also have knowledge of French, making me well-suited to working in diverse teams and collaborating on international projects.<br><br>🚀 I'm passionate about technology and always eager to learn and apply new skills. I'm currently working on honing my programming abilities and expanding my knowledge of software development practices.<br><br>👥 I'm looking to collaborate with other like-minded developers on exciting projects that challenge me and help me grow as a professional.<br><br>💬 Feel free to ask me about my experiences and goals, or to discuss potential opportunities for collaboration or career advancement.<br><br>⚡ Fun fact: In my free time, I enjoy surfing, playing guitar, and practicing my language skills through travel and conversation with native speakers.
+## 🚀 About Me
+Hello! 👋 I am a student of higher degree in multiplatform application development in the Canary Islands, Spain. 🇮🇨
+
+Currently I have finished my first year of studies, in which I have learned in depth Java ☕️, and relational databases 📚, among other technologies, such as JUnit, Git, Linux, etc. 💻
+
+My specialty is backend development, where I feel comfortable in solving problems, even if they resist. In this aspect I have a high frustration tolerance. 😅
+
+My greatest achievement has been to develop with a colleague a database management application in a week ⏱️, with no previous knowledge of the framework used. 🚀
+
+I am used to work in a team, so I feel comfortable developing a project with a team of 2 to 8 people. I have worked with agile methodologies, such as SCRUM. 👥✨
+
+I am passionate about technologies, so I have developed a high capacity for self-taught learning. Which has led me to learn technologies outside that have not been taught inside the classroom, such as Docker 🐳, or cloud applications ☁️, such as Azure, among others. 🔍📚
+
+My native language is Spanish 🇪🇸, although I also have a good level of English 🇬🇧, both spoken and written. Other languages in which I can communicate are Catalan, and to a lesser extent French 🇫🇷.
+
+I am currently looking for a European company where I can do my Erasmus internship for the current academic year 2023/2024, with the aim of boosting my career and acquiring skills that I would not otherwise be able to obtain. 🌍🎓
+
+I am excited to be part of the GitHub community, where I am open both to collaborate and to share and improve my projects through constructive criticism. 🤝💪
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignarrios) 
 
 # 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 💬 Badges:
 [![image()](https://user-images.githubusercontent.com/110684532/231201448-eee563ee-e6e6-4928-b112-904aea59ec15.png)](https://www.codewars.com/users/idevcm)
