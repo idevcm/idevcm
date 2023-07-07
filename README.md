@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Hello! 👋 I am a student of higher degree in multiplatform application development in the Canary Islands, Spain. 🇮🇨
+Hello! 👋 I am a HNC student in multiplatform application development in the Canary Islands, Spain. 🇮🇨
 
 Currently I have finished my first year of studies, in which I have learned in depth Java ☕️, and relational databases 📚, among other technologies, such as JUnit, Git, Linux, etc. 💻
 
