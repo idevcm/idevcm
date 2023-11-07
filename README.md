@@ -5,7 +5,11 @@ Currently I have finished my first year of studies, in which I have learned in d
 
 My specialty is backend development, where I feel comfortable in solving problems, even if they resist. In this aspect I have a high frustration tolerance. 😅
 
-My greatest achievement has been to develop with a colleague a database management application in a week ⏱️, with no previous knowledge of the framework used. 🚀
+Two of my biggest ones have been:
+
++ Without previous knowledge in SpringBoot, nor Hibernate, getting the 8th place in a TechHub for Backend developers, obtaining a score of 1196 points out of 1200 possible.
+
++ Develop with a colleague a database management application in a week, also without previous knowledge of the framework used. 
 
 I am used to work in a team, so I feel comfortable developing a project with a team of 2 to 8 people. I have worked with agile methodologies, such as SCRUM. 👥✨
 
