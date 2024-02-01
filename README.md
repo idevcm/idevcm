@@ -19,7 +19,7 @@ others. 🔍📚<br><br>My native language is Spanish 🇪🇸, although I also 
 written. Other languages in which I can communicate are Catalan, and to a lesser extent French 🇫🇷.<br><br>I am excited
 to be part of the GitHub community, where I am open both to collaborate and to share and improve my projects through
 constructive criticism. 🤝💪</h2>
-
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -45,7 +45,7 @@ constructive criticism. 🤝💪</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-
+</div>
  <hr/>
 
 <div align="center">
