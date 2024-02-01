@@ -43,8 +43,7 @@ I am excited to be part of the GitHub community, where I am open both to collabo
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
+  ![Snake](https://raw.githubusercontent.com/idevcm/my-awesome-project/output/snake.svg)
 <br/><br/><br/>
 </div>
 
