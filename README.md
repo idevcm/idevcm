@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Ignacio+Barrios!;" />
 </h1>
 
-Hello! 👋 I am a Level 5 EQF - Post-secondary vocational training in Development of Multiplatform Applications student from Canary Islands, Spain. 🇮🇨
+Hi! 👋 I am a Level 5 EQF - Post-secondary vocational training in Development of Multiplatform Applications student from Canary Islands, Spain. 🇮🇨
 
 Currently I have finished my first year of studies, in which I have learned in depth Java ☕️, and relational databases 📚, among other technologies, such as JUnit, Git, Linux, etc. 💻
 
