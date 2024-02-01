@@ -40,13 +40,6 @@ I am excited to be part of the GitHub community, where I am open both to collabo
 <br/>
  <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/idevcm/idevcm/output/snake.svg" alt="Snake animation" />
-<br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
