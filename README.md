@@ -3,25 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Ignacio+Barrios!;" />
 </h1>
 
-Hi! 👋 I am a Level 5 EQF - Post-secondary vocational training in Development of Multiplatform Applications student from Canary Islands, Spain. 🇮🇨
+👋 Hi! I'm a Level 5 EQF - Post-secondary vocational training in Development of Multiplatform Applications student from the Canary Islands, Spain. 🇮🇨
 
-Currently I have finished my first year of studies, in which I have learned in depth Java ☕️, and relational databases 📚, among other technologies, such as JUnit, Git, Linux, etc. 💻
+Over the course of my studies, I've delved into the core of Java programming, expanding my knowledge to include Kotlin and C# in my final year. My academic journey has been enriched by practical experiences, such as my Erasmus+ internship in Italy, where I explored the integration of AI into web applications using Python.
 
-My specialty is backend development, where I feel comfortable in solving problems, even if they resist. In this aspect I have a high frustration tolerance. 😅
+One of my notable achievements was securing the 8th place in a TechHub for Backend developers, scoring an impressive 1196 out of 1200 points, despite having no prior experience with SpringBoot or Hibernate. Additionally, I developed an application for Android devices that is controlled through an eyetracker, showcasing my ability to innovate and apply my skills in real-world scenarios.
 
-Two of my biggest ones have been:
+My language skills extend beyond Spanish, with fluency in English and Catalan, and a working knowledge of French and Italian, which I'm currently enhancing during my Erasmus stay.
 
-+ Without previous knowledge in SpringBoot, nor Hibernate, getting the 8th place in a TechHub for Backend developers, obtaining a score of 1196 points out of 1200 possible.
+While my repositories are currently not up-to-date due to time constraints, I'm committed to regularly updating them with more content.
 
-+ Develop with a colleague a database management application in a week, also without previous knowledge of the framework used.
-
-I am used to work in a team, so I feel comfortable developing a project with a team of 2 to 8 people. I have worked with agile methodologies, such as SCRUM. 👥✨
-
-I am passionate about technologies, so I have developed a high capacity for self-taught learning. Which has led me to learn technologies outside that have not been taught inside the classroom, such as Docker 🐳, or cloud applications ☁️, such as Azure, among others. 🔍📚
-
-My native language is Spanish 🇪🇸, although I also have a good level of English 🇬🇧, both spoken and written. Other languages in which I can communicate are Catalan, and to a lesser extent French 🇫🇷.
-
-I am excited to be part of the GitHub community, where I am open both to collaborate and to share and improve my projects through constructive criticism. 🤝💪
+I'm thrilled to join the GitHub community, eager to collaborate, share, and improve my projects through constructive feedback. Let's connect and make the most of our collective expertise! 
 
 <hr/>
 
@@ -34,8 +26,7 @@ I am excited to be part of the GitHub community, where I am open both to collabo
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,py,django,cs,unity,git,docker" />
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,linux,idea" /><br>
+    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,py,spring,dotnet,django,firebase,mongodb,mysql,postgres,nginx,kubernetes,docker,grafana,rabbitmq,postman,redis&perline=6"/>
 </div>
 <br/>
  <hr/>
