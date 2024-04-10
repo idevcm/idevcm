@@ -3,18 +3,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Ignacio+Barrios!;" />
 </h1>
 
-👋 Hi! I'm a Level 5 EQF - Post-secondary vocational training in Development of Multiplatform Applications student from the Canary Islands, Spain. 🇮🇨
+👋 Hi! I'm a software developer from Canary Islands, Spain. 🇮🇨
 
-Over the course of my studies, I've delved into the core of Java programming, expanding my knowledge to include Kotlin and C# in my final year. My academic journey has been enriched by practical experiences, such as my Erasmus+ internship in Italy, where I explored the integration of AI into web applications using Python.
+I have strong knowledge in Java and Kotlin programming languages, where I have worked with SpringBoot and JetPack Compose, as well as with both SQL and NoSQL databases.
 
-One of my notable achievements was securing the 8th place in a TechHub for Backend developers, scoring an impressive 1196 out of 1200 points, despite having no prior experience with SpringBoot or Hibernate. Additionally, I developed an application for Android devices that is controlled through an eyetracker, showcasing my ability to innovate and apply my skills in real-world scenarios.
+My academic background has been enriched by practical experiences, such as my Erasmus+ internship in Italy, where I delved into the design and development of microservices architectures with .NET, where I applied various technologies such as Docker, Kubernetes, Istio, Kafka, Grafana.... I also explored the integration of AI in web applications using Python.
 
-My language skills extend beyond Spanish, with fluency in English and Catalan, and a working knowledge of French and Italian, which I'm currently enhancing during my Erasmus stay.
+Among my achievements are:
 
-While my repositories are currently not up-to-date due to time constraints, I'm committed to regularly updating them with more content.
++ Getting 8th place in a TechHub for Backend developers, getting an impressive score of 1196 out of 1200 points, despite having no previous experience with SpringBoot or Hibernate. 
 
-I'm thrilled to join the GitHub community, eager to collaborate, share, and improve my projects through constructive feedback. Let's connect and make the most of our collective expertise! 
++ Developing an application for Android devices that is controlled through an eyetracker, showing my ability to innovate and apply my skills in real-world scenarios.
 
+My language skills extend beyond Spanish, with fluency in English and Catalan, and a working knowledge of French and Italian, which I am currently improving during my Erasmus stay.
+
+Although my repositories are currently out of date due to lack of time, I am committed to update them regularly with more content.
 <hr/>
 
 <div align="center">
