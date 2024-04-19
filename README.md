@@ -29,7 +29,7 @@ Although my repositories are currently out of date due to lack of time, I am com
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,py,spring,dotnet,django,firebase,mongodb,mysql,postgres,nginx,kubernetes,docker,grafana,rabbitmq,postman,redis&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,py,ai,spring,dotnet,mongodb,postgres,kubernetes,docker,kafka,postman&perline=6"/>
 </div>
 <br/>
  <hr/>
