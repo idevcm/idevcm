@@ -7,7 +7,7 @@
 
 I have strong knowledge in Java and Kotlin programming languages, where I have worked with SpringBoot and JetPack Compose, as well as with both SQL and NoSQL databases.
 
-My academic background has been enriched by practical experiences, such as my Erasmus+ internship in Italy, where I delved into the design and development of microservices architectures with .NET, where I applied various technologies such as Docker, Kubernetes, Istio, Kafka, Grafana.... I also explored the integration of AI in web applications using Python.
+My academic background has been enriched with practical experiences, such as my Erasmus+ internship in Italy, where I delved into the design and development of microservices architectures with .NET. I also explored the integration of AI in web applications in Python with libraries like Langchain and vecotorial databases like chromadb.
 
 Among my achievements are:
 
