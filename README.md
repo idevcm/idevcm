@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=idevcm.idevcm" />
-
 ```console
 ┌──(idevcm@omarchy)-[~]
 └─$ whoami
